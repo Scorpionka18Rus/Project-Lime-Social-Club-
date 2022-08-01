@@ -1,0 +1,48 @@
+body{
+    height: 100vh;
+    background-color: #7ADEB4;
+    margin: 0;
+}
+
+.header{
+    width: 1920px;
+    height: 960px;
+    position: absolute;
+}
+
+.header-logo{
+    position:absolute;
+    width: 723px;
+    height: 723px;
+    top: 0;
+    left: 0;
+}
+
+
+.header-text{
+    position: absolute;
+    margin-top: 377px;
+    margin-left: 713px;
+    margin-right: 1px;
+    margin-bottom: 309px;
+    font-family: 'Source Han Sans';
+    font-style: normal;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 120px;
+    line-height: 100px;
+}
+
+.header-name{
+    margin-top: 803px;
+    margin-left: 1200px;
+    font-family: 'Source Han Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 72px;
+    color: #FFFFFF;
+    line-height: 25px;
+}
+
+
+
